@@ -7,7 +7,7 @@ By JavC. Java is used for coding structures and C++ uses setting configuration a
 
 - In the first release JavC executes it with one rule. One line per code. You can execute the code per line it will give outputs.
 
-- Coding unit made by Mel is a special structures that consists of smaller versions of programming languages.
+- Coding unit made by Mel is a special structures that consists of smaller versions of programming languages. So small it is smaller than Roblox Luau used to develop Roblox games if you know.
 
 - I made this so that lightweight coding can interpret between C++ and Java.
 
