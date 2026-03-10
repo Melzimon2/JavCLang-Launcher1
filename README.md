@@ -11,3 +11,5 @@ By JavC. Java is used for coding structures and C++ uses setting configuration a
 
 - I made this so that lightweight coding can interpret between C++ and Java.
 
+- To get the official preview, you can download the preview or get it from github. And use JStudio by ALIF Technology for more compatibility as it is made by this IDE. But before
+
